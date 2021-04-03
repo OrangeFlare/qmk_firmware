@@ -1,0 +1,12 @@
+{
+    "keyboard_Name": "Ice Cream Sandwich 1800",
+    "manufacturer": "Josef Baltz",
+    "maintainer": "OrangeFlare",
+    "width": 18,
+    "height": 5,
+    "processor": "atmega32u4",
+    "usb": {
+      "device_ver": "0x0001",
+      "vid": "0x0022"
+    }
+  }
