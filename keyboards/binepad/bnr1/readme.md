@@ -26,3 +26,6 @@ My modifications turn the dial into a fully featured media control dial
 * Press & Hold + Counter-Clockwise: F19
 
 The F20 and F19 keys can be bound as macros. For example, in foobar2000 I bound these 2 keys to seek forwards and backwards by 5 seconds
+
+Most of my code is copied and modified from [this page](https://beta.docs.qmk.fm/using-qmk/software-features/feature_tap_dance) in case anyone else wants to learn
+Another [great resource](https://thomasbaart.nl/2018/12/13/qmk-basics-tap-dance/) for learning tap dances
